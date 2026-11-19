@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+numpy
+pydantic
+pydantic-settings
+python-dotenv
+supabase
+httpx
+pytest
